@@ -41,7 +41,7 @@ class TrafficLight extends StatelessWidget {
                 borderRadius: BorderRadius.circular(16),
               ),
             ),
-            // ไฟแดง
+            
             Positioned(
               top: 20,
               left: 20,
